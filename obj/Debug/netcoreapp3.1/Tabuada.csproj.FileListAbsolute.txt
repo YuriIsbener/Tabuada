@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+C:\Users\yuris\Desktop\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+C:\Users\yuris\Desktop\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+C:\Users\yuris\Desktop\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+C:\Users\yuris\Desktop\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Users\yuris\Desktop\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+C:\Users\yuris\Desktop\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Users\yuris\Desktop\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache
